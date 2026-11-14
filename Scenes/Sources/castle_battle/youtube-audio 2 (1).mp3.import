@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dnqsh6r3ao2h5"
+path="res://.godot/imported/youtube-audio 2 (1).mp3-95129aba34d90436426f94c74d0cf530.mp3str"
+
+[deps]
+
+source_file="res://Scenes/Sources/castle_battle/youtube-audio 2 (1).mp3"
+dest_files=["res://.godot/imported/youtube-audio 2 (1).mp3-95129aba34d90436426f94c74d0cf530.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

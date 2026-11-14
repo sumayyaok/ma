@@ -1,0 +1,69 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1794669164
+export_presets.cfg::TextFile::-1::1794669164::0::1::::<><><>0<>0<><>::
+Hub.tscn::PackedScene::-1::1794665375::0::1::::<><><>0<>0<><>::res://Scripts/hub.gd
+youtube-audio 3.mp3::AudioStreamMP3::657847568237593898::1794664797::1794667879::1::::<><><>0<>0<>6645193cc4d351c6422e5ba885ecc66c<>res://.godot/imported/youtube-audio 3.mp3-5f61e47483049835d09076aa1e64a976.mp3str::
+::res://Audio/::1794667879
+default_bus_layout.tres::AudioBusLayout::-1::1794665375::0::1::::<><><>0<>0<><>::
+youtube-audio-3.mp3::AudioStreamMP3::1911661304482148737::1794664797::1794667879::1::::<><><>0<>0<>365e234401a1236bc0db19ac1defd9db<>res://.godot/imported/youtube-audio-3.mp3-758e5e808ced628cf158f56713f9a34a.mp3str::
+::res://export/::1794669164
+index.apple-touch-icon.png::CompressedTexture2D::2550950810392615662::1794669164::1794669167::1::::<><><>0<>0<>62665ed827d590408ba119f7d1f8022d<>res://.godot/imported/index.apple-touch-icon.png-2786902287ee3c081d87ddba9fd253fe.ctex::
+index.icon.png::CompressedTexture2D::1067213001194343536::1794669164::1794669167::1::::<><><>0<>0<>63d5656df17f521edd720ef16d7fa65d<>res://.godot/imported/index.icon.png-3b121a4922cb9cfa20e3529a349a6f72.ctex::
+index.png::CompressedTexture2D::7469079192775960164::1794669164::1794669167::1::::<><><>0<>0<>44f7047c3352134fbd40c82aa3929def<>res://.godot/imported/index.png-de14850a4c2320eaddca8799ea52db2b.ctex::
+::res://Scenes/::1794668268
+::res://Scenes/Campaign/::1794668268
+Ending.tscn::PackedScene::-1::1794668268::0::1::::<><><>0<>0<><>::res://Scripts/ending_scene.gd
+Level.tscn::PackedScene::-1::1794668268::0::1::::<><><>0<>0<><>::res://Scripts/campaign_level.gd
+Story.tscn::PackedScene::-1::1794668268::0::1::::<><><>0<>0<><>::res://Scripts/story_scene.gd
+::res://Scenes/Sources/::1794665337
+::res://Scenes/Sources/adventure/::1794665338
+::res://Scenes/Sources/adventure/harry-potter's-adventure-1/::1794669060
+1.png::CompressedTexture2D::8691200552142949189::1794665338::1794669060::1::::<><><>0<>0<>e36616473e205d787ff9cc64186f7f23<>res://.godot/imported/1.png-ce19d9d9e166076ee6748b37ccc9cfdd.ctex::
+2.png::CompressedTexture2D::380517430486645586::1794665338::1794669060::1::::<><><>0<>0<>7b25bfc457b9182c604c51827cf796c0<>res://.godot/imported/2.png-81b888f7b0eeb4d6b824e7358da5a815.ctex::
+3.png::CompressedTexture2D::6899933950019851020::1794665338::1794669060::1::::<><><>0<>0<>d800486d31b44574ef7733145ed2405e<>res://.godot/imported/3.png-37994693deb7b14e300193da2364407e.ctex::
+default_bus_layout.tres::AudioBusLayout::-1::1794665338::0::1::::<><><>0<>0<><>::
+icon.svg::CompressedTexture2D::363514963533110429::1794665338::1794669060::1::::<><><>0<>0<>71e01eca0b78cb88cbe8933ab59bb6e7<>res://.godot/imported/icon.svg-9adb5c9d58b72a137f167928999a14cc.ctex::
+maid.tscn::PackedScene::-1::1794665338::0::1::::<><><>0<>0<><>::
+main.tscn::PackedScene::-1::1794665338::0::1::::<><><>0<>0<><>::
+menu.tscn::PackedScene::-1::1794665338::0::1::::<><><>0<>0<><>::res://Scenes/Sources/adventure/harry-potter's-adventure-1/photo_5458391314660531303_w (2).jpg<>res://Scenes/Sources/adventure/harry-potter's-adventure-1/photo_5458391314660531321_y-Phot (2).png<>res://Scenes/Sources/adventure/harry-potter's-adventure-1/1.png<>res://Scenes/Sources/adventure/harry-potter's-adventure-1/2.png<>res://Scenes/Sources/adventure/harry-potter's-adventure-1/3.png<>res://Scenes/Sources/adventure/harry-potter's-adventure-1/youtube-audio.mp3
+photo_5458391314660531303_w (2).jpg::CompressedTexture2D::4259831438820169349::1794665338::1794669060::1::::<><><>0<>0<>752e08f795f933b098b147dfe1de1618<>res://.godot/imported/photo_5458391314660531303_w (2).jpg-0df5da2a3520316436f988691685e80e.ctex::
+photo_5458391314660531321_y-Phot (2).png::CompressedTexture2D::231795788977316252::1794665338::1794669060::1::::<><><>0<>0<>b75991ddc753edc4672d38cb401ba3f3<>res://.godot/imported/photo_5458391314660531321_y-Phot (2).png-3a1784c77f84a49eebc00577aa217cf3.ctex::
+youtube-audio.mp3::AudioStreamMP3::401261306737394128::1794665338::1794669060::1::::<><><>0<>0<>1d32c0b146187bdd72afc991391394e9<>res://.godot/imported/youtube-audio.mp3-ba961947a7cb1941506ff562c6293f26.mp3str::
+::res://Scenes/Sources/adventure/mslfoys-adventurr-/::1794669060
+c26cd439-3d3c-450b-a64f-18e7024d.jpg::CompressedTexture2D::4214029673484754221::1794665337::1794669060::1::::<><><>0<>0<>65e868f9bb2a56f29e5793467dc88ec1<>res://.godot/imported/c26cd439-3d3c-450b-a64f-18e7024d.jpg-7c6437c522759069326488cc379edb2d.ctex::
+hat-removebg-preview.png::CompressedTexture2D::8958357554041295337::1794665337::1794669060::1::::<><><>0<>0<>3a08f8e9fc9c282d8ee4381dc8bdad19<>res://.godot/imported/hat-removebg-preview.png-5c77293ea4fa977bd15c1dca61ceaba1.ctex::
+icon.svg::CompressedTexture2D::2029352119544534386::1794665337::1794669060::1::::<><><>0<>0<>48de67a3a5e856d55b4a2c9eff7b0933<>res://.godot/imported/icon.svg-22355e92031076c10a105bd03a9f1f7a.ctex::
+main.tscn::PackedScene::-1::1794665337::0::1::::<><><>0<>0<><>::res://Scenes/Sources/adventure/mslfoys-adventurr-/hat-removebg-preview.png<>res://Scenes/Sources/adventure/mslfoys-adventurr-/c26cd439-3d3c-450b-a64f-18e7024d.jpg<>res://Scenes/Sources/adventure/mslfoys-adventurr-/photo_5458391314660531158_x-removebg-preview.png<>res://Scenes/Sources/adventure/mslfoys-adventurr-/photo_5458576998981639051_y-Photoroom.png
+photo_5458391314660531158_x-removebg-preview.png::CompressedTexture2D::4187281552954540952::1794665337::1794669060::1::::<><><>0<>0<>86ca339e6dc0716842c016f5b81c0f6a<>res://.godot/imported/photo_5458391314660531158_x-removebg-preview.png-3ff560368e3fb001d40f7aff1b8ce57d.ctex::
+photo_5458576998981639051_y-Photoroom.png::CompressedTexture2D::3644520462011478189::1794665337::1794669060::1::::<><><>0<>0<>4f0866e3cc44b7dd4e35c628d871bc7d<>res://.godot/imported/photo_5458576998981639051_y-Photoroom.png-e61da717f4e7f3a461ff0e46ab3fe9e5.ctex::
+::res://Scenes/Sources/castle_battle/::1794669060
+draco (1).png::CompressedTexture2D::452876170103723635::1794665337::1794669060::1::::<><><>0<>0<>11519d82f08df41d4d5e3bf93d6726a5<>res://.godot/imported/draco (1).png-35fe32757ade8d08a246e515e61be21a.ctex::
+icon.svg::CompressedTexture2D::5658100873781426642::1794665337::1794669060::1::::<><><>0<>0<>32c8d72d59ba9735a6849436669e4fa1<>res://.godot/imported/icon.svg-c5ffe34c6e1ea4287092c14d85022e73.ctex::
+main.tscn::PackedScene::-1::1794665337::0::1::::<><><>0<>0<><>::res://Scenes/Sources/castle_battle/draco (1).png<>res://Scenes/Sources/castle_battle/photo_5458391314660531375_w (1) (1).jpg<>res://Scenes/Sources/castle_battle/photo_5458391314660531564y_photoroom.tscn
+photo_5458391314660531375_w (1) (1).jpg::CompressedTexture2D::4559922191846305460::1794665337::1794669060::1::::<><><>0<>0<>352f268bc5ee92885be0b3b6e8128903<>res://.godot/imported/photo_5458391314660531375_w (1) (1).jpg-4e8ae913ffef0a5440de1fb55e89f023.ctex::
+photo_5458391314660531564y_photoroom.tscn::PackedScene::-1::1794665337::0::1::::<><><>0<>0<><>::res://Scenes/Sources/castle_battle/photo_5458391314660531564_y-Photoroom.png
+photo_5458391314660531564_y-Photoroom.png::CompressedTexture2D::2855435673784055272::1794665337::1794669060::1::::<><><>0<>0<>87403392158853c6bcae39aa1ae5131d<>res://.godot/imported/photo_5458391314660531564_y-Photoroom.png-96f313eaa4fb3bb42b422863e2591980.ctex::
+youtube-audio 2 (1).mp3::AudioStreamMP3::8105854124624114344::1794665337::1794669060::1::::<><><>0<>0<>d1465936d2ce3bcdb1e230569b50e3e6<>res://.godot/imported/youtube-audio 2 (1).mp3-95129aba34d90436426f94c74d0cf530.mp3str::
+::res://Scenes/Sources/platformer/::1794669060
+Icon.png::CompressedTexture2D::8300697042560736773::1794665337::1794669060::1::::<><><>0<>0<>cafe30e29487b25d6536d20471408ddc<>res://.godot/imported/Icon.png-c694321c7e90605db5a8649a63a3010a.ctex::
+node_2d.tscn::PackedScene::-1::1794668319::0::1::::<><><>0<>0<><>::res://Scenes/Sources/platformer/Character/player.tscn
+::res://Scenes/Sources/platformer/Character/::1794669060
+photo_5458391314660531508_y__1_-removebg-preview.png::CompressedTexture2D::4458164828485644271::1794665337::1794669060::1::::<><><>0<>0<>7444466b12b7ab00f911945ff8ec2134<>res://.godot/imported/photo_5458391314660531508_y__1_-removebg-preview.png-2affd12e4689b345a2acc95e39c4235d.ctex::
+player.tscn::PackedScene::-1::1794668200::0::1::::<><><>0<>0<><>::res://Scenes/Sources/platformer/Character/playerScript.gd<>res://Scenes/Sources/platformer/Character/photo_5458391314660531508_y__1_-removebg-preview.png
+playerScript.gd::GDScript::8382073864198117438::1794668348::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://Scenes/Sources/platformer_prototype/::1794669060
+5458391314660531371 (1).jpg::CompressedTexture2D::3520247524733707269::1794665337::1794669060::1::::<><><>0<>0<>5c512430332c3373d041e7920b5d4f32<>res://.godot/imported/5458391314660531371 (1).jpg-a51830329fb1f2b69c41fc3642bf2da6.ctex::
+character_body_2d.gd::GDScript::1213736593710941546::1794665337::0::1::::<>CharacterBody2D<><>0<>0<><>::
+Icon.png::CompressedTexture2D::1053200733774444420::1794665337::1794669060::1::::<><><>0<>0<>8781bd738c6382fba13d0dbb1f6a60e2<>res://.godot/imported/Icon.png-de42614ea0634bb2ea3ba1b1675a9990.ctex::
+player.tscn::PackedScene::-1::1794665337::0::1::::<><><>0<>0<><>::res://Scenes/Sources/platformer_prototype/5458391314660531371 (1).jpg<>res://Scenes/Sources/platformer_prototype/Character/5458391314660531508-removebg-preview.png<>res://Scenes/Sources/platformer_prototype/character_body_2d.gd
+::res://Scenes/Sources/platformer_prototype/Character/::1794669060
+5458391314660531371 (1).jpg::CompressedTexture2D::6154774980640283990::1794665337::1794669060::1::::<><><>0<>0<>704e09a3b7311d52ac0c97e5519f9b30<>res://.godot/imported/5458391314660531371 (1).jpg-4a97bf8ac1f9e63e97f6831889a493b0.ctex::
+5458391314660531508-removebg-preview.png::CompressedTexture2D::6921373911461046603::1794665337::1794669060::1::::<><><>0<>0<>b3764f3f2862da4f38c83bd82c55f4ff<>res://.godot/imported/5458391314660531508-removebg-preview.png-bc1cb6ac63a6546aa3ba55d0090d87db.ctex::
+::res://Scripts/::1794669059
+campaign_level.gd::GDScript::4829469875209634378::1794668470::0::1::::<>Node2D<><>0<>0<><>::
+campaign_state.gd::GDScript::4354847265809349460::1794668348::0::1::::<>Node<><>0<>0<><>::
+ending_scene.gd::GDScript::607903630696851311::1794668268::0::1::::<>Control<><>0<>0<><>::
+hub.gd::GDScript::5458775227636380851::1794668348::0::1::::<>Control<><>0<>0<><>::
+music_manager.gd::GDScript::3656955066970717259::1794665506::0::1::::<>AudioStreamPlayer<><>0<>0<><>::
+scene_router.gd::GDScript::6573032734591229879::1794665375::0::1::::<>Node<><>0<>0<><>::
+story_scene.gd::GDScript::4798022279441879966::1794668268::0::1::::<>Control<><>0<>0<><>::

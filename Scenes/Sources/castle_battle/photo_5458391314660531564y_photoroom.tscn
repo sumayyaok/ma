@@ -1,0 +1,8 @@
+[gd_scene format=3]
+
+[ext_resource type="Texture2D" path="res://Scenes/Sources/castle_battle/photo_5458391314660531564_y-Photoroom.png" id="1_1mwkf"]
+
+[node name="Photo5458391314660531564YPhotoroom" type="Sprite2D" unique_id=1685317108]
+rotation = 3.1415927
+scale = Vector2(-0.17838943, -0.18357942)
+texture = ExtResource("1_1mwkf")
